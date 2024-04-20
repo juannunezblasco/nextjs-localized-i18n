@@ -1,0 +1,12 @@
+{
+  "wellcome": "Bienvenido al mundo de Next.js usando i18n",
+  "question": "Esta es tu pregunta: {{text}} rodeada texto traducido.",
+  "form": {
+    "placeholder": "Escribe algo aquí..."
+  },
+  "about-title": "Quiénes Somos",
+  "home-title": "Inicio",
+  "footer": {
+    "created-by": "Creado por"
+  }
+}

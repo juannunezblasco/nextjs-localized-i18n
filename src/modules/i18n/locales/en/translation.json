@@ -1,0 +1,12 @@
+{
+  "wellcome": "Wellcome to the world of Next.js and i18n",
+  "question": "This is your question: {{text}} surrounded by localized text.",
+  "form": {
+    "placeholder": "Write something in here..."
+  },
+  "about-title": "About Us",
+  "home-title": "Home",
+  "footer": {
+    "created-by": "Created by"
+  }
+}
